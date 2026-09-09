@@ -2,3 +2,4 @@
 # test-build-demo
 
 Quay
+builder
